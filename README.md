@@ -29,8 +29,8 @@ docker compose -f docker-compose.local.yml up
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone https://github.com/ommat-hse/algoscalc-front.git
-    cd algoscalc-front
+    git clone https://github.com/hse-algo-24-crow/algoscalc-front-crow.git
+    cd algoscalc-front-crow
     ```
 
 2. Установите зависимости проекта:
